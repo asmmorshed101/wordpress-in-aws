@@ -1,4 +1,10 @@
 # wordpress-in-aws
+
+![351642700-1d4fa91d-2efd-46f8-b8c4-bbd834f4dbfc](https://github.com/user-attachments/assets/c5ee8e80-f796-4dc5-bed6-c379006f938d)
+
+
+
+
 Here is some commands for hosting a WordPress website in AWS Cloud
 
 Install PHP in EC2 Instance
